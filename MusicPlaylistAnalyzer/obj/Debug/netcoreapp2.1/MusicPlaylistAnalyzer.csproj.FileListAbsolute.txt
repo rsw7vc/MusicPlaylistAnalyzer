@@ -9,3 +9,14 @@
 /Users/ryanwoods/Desktop/INFOTC 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb
 /Users/ryanwoods/Desktop/INFOTC 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.dll
 /Users/ryanwoods/Desktop/INFOTC 2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.deps.json
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.dll
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.dll
+/Users/ryanwoods/Documents/GitHub/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb
